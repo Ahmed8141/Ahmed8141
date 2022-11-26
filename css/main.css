@@ -4,7 +4,8 @@
     -moz-box-sizing: border-box;
 
 }
-html{
+
+html {
     scroll-behavior: smooth;
 }
 
@@ -487,7 +488,8 @@ footer {
     padding: 30px 10px;
     font-size: 18px;
 }
-footer span{
+
+footer span {
     color: var(--main-color);
     font-weight: bold;
 }
